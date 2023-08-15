@@ -1,4 +1,24 @@
 {
   "name": "latest",
-  "version": "1.4.1"
+  "version": "1.4.2",
+  "features": [
+        {
+            "id": "0",
+            "image": "⭐️",
+            "title": "The Stars Are Back",
+            "description": "We've revamped our surf rating system to make it even more intuitive and engaging. Now, when you check out the latest surf conditions, you'll see a sparkling display of stars out of five, providing you with an instant and visual insight into the quality of the waves."
+        },
+        {
+            "id": "1",
+            "image": "🗺️",
+            "title": "Surf Spot Exploration",
+            "description": "Discover hidden gems, iconic breaks, and untouched shores with the interactive map. Plan your next surf trip with confidence, knowing you have a world of waves at your fingertips."
+        },
+        {
+            "id": "2",
+            "image": "📅",
+            "title": "Upcoming Swell Alerts",
+            "description": "Get ahead of the game by receiving notifications about upcoming swells and optimal surfing conditions. Never miss a chance to catch the perfect wave again."
+        }
+    ]
 }
