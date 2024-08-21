@@ -1,22 +1,26 @@
 {
   "name": "latest",
-  "version": "1.5.2",
+  "version": "1.6.0",
   "features": {
       "en": [
           {
               "id": "0",
-              "image": "👷",
-              "title": "Under Construction",
-              "description": "Our app is currently undergoing some exciting renovations to enhance your experience. We're hard at work behind the scenes, crafting new features and improvements just for you. Thank you for your patience and continued support."
+              "image": "⭐️",
+              "title": "The Stars Are Back",
+              "description": "We've revamped our surf rating system to make it even more intuitive and engaging. Now, when you check out the latest surf conditions, you'll see a sparkling display of stars out of five, providing you with an instant and visual insight into the quality of the waves."
           }
       ],
       "he": [
           {
               "id": "0",
-              "image": "👷",
-              "title": "Under Construction",
-              "description": "Our app is currently undergoing some exciting renovations to enhance your experience. We're hard at work behind the scenes, crafting new features and improvements just for you. Thank you for your patience and continued support."
-          },
+              "image": "⭐️",
+              "title": "הכוכבים חזרו!",
+              "description": "שדרגנו את מערכת הדירוג שלנו לאיכות הגלים כדי להפוך אותה לעוד יותר אינטואיטיבית ומרתקת. עכשיו, כשתבדקו את מצב הים, תוכלו לראות תצוגה של כוכבים מתוך חמישה, המספקת לך תובנה מיידית וחזותית לאיכות הגלים."
+          }
       ]
+  },
+  "surfReportAccess": {
+      "quota": 5,
+      "isFreemiumUnlocked": true
   }
 }
