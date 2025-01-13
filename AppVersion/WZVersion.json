@@ -1,39 +1,57 @@
 {
   "name": "latest",
-  "version": "1.6.2",
+  "version": "1.6.3",
   "features": {
     "en": [
       {
         "id": "0",
-        "image": "⭐️",
-        "title": "The Stars Are Back",
-        "description": "We've revamped our surf rating system to make it even more intuitive and engaging. Now, when you check out the latest surf conditions, you'll see a sparkling display of stars out of five, providing you with an instant and visual insight into the quality of the waves."
-      },
-      {
-        "id": "1",
-        "image": "🌊",
-        "title": "Classic Vibes",
-        "description": "For our old-school surfers, we’ve added a brand-new forecast table to keep things simple and reliable."
-      },
-      {
-        "id": "2",
         "image": "🗺️",
         "title": "Surf Spot Exploration",
         "description": "Discover hidden gems, iconic breaks, and untouched shores with the interactive map. Plan your next surf trip with confidence, knowing you have a world of waves at your fingertips."
       },
       {
+        "id": "1",
+        "image": "⭐️",
+        "title": "The Stars Are Back",
+        "description": "We've revamped our surf rating system to make it even more intuitive and engaging. Now, when you check out the latest surf conditions, you'll see a sparkling display of stars out of five, providing you with an instant and visual insight into the quality of the waves."
+      },
+      {
+        "id": "2",
+        "image": "🌊",
+        "title": "Classic Vibes",
+        "description": "For our old-school surfers, we’ve added a brand-new forecast table to keep things simple and reliable."
+      },
+      {
         "id": "3",
-        "image": "📅",
-        "title": "Upcoming Swell Alerts",
-        "description": "Get ahead of the game by receiving notifications about upcoming swells and optimal surfing conditions. Never miss a chance to catch the perfect wave again."
+        "image": "🏄‍♂️",
+        "title": "Upcoming Surf Guide",
+        "description": "Whether you’re planning a trip or just curious about local spots, gain valuable insight into the overall vibe, best season, and essential knowledge for a perfect surf session."
       }
     ],
     "he": [
       {
         "id": "0",
+        "image": "🗺️",
+        "title": "מסביב לעולם",
+        "description": "גלו מקומות נסתרים, נקודות שבירה אייקוניות וחופים בתוליים עם המפה האינטראקטיבית. תכננו את טיול הגלישה הבא שלכם בביטחון, בידיעה שעולם של גלים נמצא בהישג יד."
+      },
+      {
+        "id": "1",
         "image": "⭐️",
-        "title": "הכוכבים חזרו!",
-        "description": "שדרגנו את מערכת הדירוג שלנו לאיכות הגלים כדי להפוך אותה לעוד יותר אינטואיטיבית ומרתקת. עכשיו, כשתבדקו את מצב הים, תוכלו לראות תצוגה של כוכבים מתוך חמישה, המספקת לך תובנה מיידית וחזותית לאיכות הגלים."
+        "title": "הכוכבים חזרו",
+        "description": "שדרגנו את מערכת דירוג הגלים כדי להפוך אותה לאינטואיטיבית ומושכת יותר. כעת, כשאתם בודקים את תנאי הגלישה האחרונים, תראו תצוגת כוכבים נוצצת מתוך חמש, שתעניק לכם הבנה מיידית וחזותית על איכות הגלים."
+      },
+      {
+        "id": "2",
+        "image": "🌊",
+        "title": "אווירה קלאסית",
+        "description": "לגולשים בסגנון הישן, הוספנו טבלת תחזית חדשה שתשמור על הדברים פשוטים ואמינים."
+      },
+      {
+        "id": "3",
+        "image": "🏄‍♂️",
+        "title": "מדריך גלישה - בקרוב",
+        "description": "בין אם אתם מתכננים טיול או סתם סקרנים לגבי מקומות מקומיים, צברו תובנות חשובות על האווירה הכללית, העונה המומלצת וידע חיוני לגלישה מושלמת."
       }
     ]
   },
