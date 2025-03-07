@@ -1,13 +1,13 @@
 {
   "name": "latest",
-  "version": "1.6.4",
+  "version": "1.6.5",
   "features": {
     "en": [
       {
         "id": "0",
-        "image": "🗺️",
-        "title": "Surf Spot Exploration",
-        "description": "Discover hidden gems, iconic breaks, and untouched shores with the interactive map. Plan your next surf trip with confidence, knowing you have a world of waves at your fingertips."
+        "image": "📱",
+        "title": "Timelapse Widget",
+        "description": "Know exactly when to hit the waves with our new widget! A quick glance at the color-coded 24-hour bar lets you spot the best surf conditions of the day—green means go, while blue tells you to wait. No more guessing, just pure surf-ready insights at your fingertips!"
       },
       {
         "id": "1",
@@ -26,14 +26,20 @@
         "image": "🏄‍♂️",
         "title": "Upcoming Surf Guide",
         "description": "Whether you’re planning a trip or just curious about local spots, gain valuable insight into the overall vibe, best season, and essential knowledge for a perfect surf session."
+      },
+      {
+        "id": "4",
+        "image": "🗺️",
+        "title": "Surf Spot Exploration",
+        "description": "Discover hidden gems, iconic breaks, and untouched shores with the interactive map. Plan your next surf trip with confidence, knowing you have a world of waves at your fingertips."
       }
     ],
     "he": [
       {
         "id": "0",
-        "image": "🗺️",
-        "title": "מסביב לעולם",
-        "description": "גלו מקומות נסתרים, נקודות שבירה אייקוניות וחופים בתוליים עם המפה האינטראקטיבית. תכננו את טיול הגלישה הבא שלכם בביטחון, בידיעה שעולם של גלים נמצא בהישג יד."
+        "image": "📱",
+        "title": "תוסף הווידג'ט",
+        "description": "יודעים בדיוק מתי לצאת לגלישה עם הווידג'ט החדש שלנו! מבט חטוף על סרגל הצבעים בן 24 השעות יראה לכם מתי התנאים האידיאליים - ירוק זה הזמן לגלוש, כחול אומר לחכות. בלי ניחושים, רק תובנות ברורות לגלישה מושלמת!"
       },
       {
         "id": "1",
@@ -52,6 +58,12 @@
         "image": "🏄‍♂️",
         "title": "מדריך גלישה - בקרוב",
         "description": "בין אם אתם מתכננים טיול או סתם סקרנים לגבי מקומות מקומיים, צברו תובנות חשובות על האווירה הכללית, העונה המומלצת וידע חיוני לגלישה מושלמת."
+      },
+      {
+        "id": "4",
+        "image": "🗺️",
+        "title": "מסביב לעולם",
+        "description": "גלו מקומות נסתרים, נקודות שבירה אייקוניות וחופים בתוליים עם המפה האינטראקטיבית. תכננו את טיול הגלישה הבא שלכם בביטחון, בידיעה שעולם של גלים נמצא בהישג יד."
       }
     ]
   },
